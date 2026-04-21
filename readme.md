@@ -5,5 +5,5 @@ Ported to petooh from: [wick3dr0se/sysfetch](https://github.com/wick3dr0se/sysfe
 ### Usage
 
 ```bash
-bash <(bf bfetch.bf)
+bash <(petooh pfetch.ptx)
 ```
